@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yrh2T+2gxz4Ve4kSmWMKxC6xECtjokqL0BVQK1tdBpjSlYzKFrmL5J9ajGPR8/bbvFnRyF7630Db4HoXwTlwLA==",
+  "success": true,
+  "projectFilePath": "/Users/shrifrai/RiderProjects/Messenger/Messenger.csproj",
+  "expectedPackageFiles": [
+    "/Users/shrifrai/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

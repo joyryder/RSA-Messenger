@@ -1,0 +1,17 @@
+/Users/shrifrai/RiderProjects/Messenger/bin/Debug/net5.0/Messenger.deps.json
+/Users/shrifrai/RiderProjects/Messenger/bin/Debug/net5.0/Messenger.runtimeconfig.json
+/Users/shrifrai/RiderProjects/Messenger/bin/Debug/net5.0/Messenger.runtimeconfig.dev.json
+/Users/shrifrai/RiderProjects/Messenger/bin/Debug/net5.0/Messenger.dll
+/Users/shrifrai/RiderProjects/Messenger/bin/Debug/net5.0/ref/Messenger.dll
+/Users/shrifrai/RiderProjects/Messenger/bin/Debug/net5.0/Messenger.pdb
+/Users/shrifrai/RiderProjects/Messenger/obj/Debug/net5.0/Messenger.csprojAssemblyReference.cache
+/Users/shrifrai/RiderProjects/Messenger/obj/Debug/net5.0/Messenger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shrifrai/RiderProjects/Messenger/obj/Debug/net5.0/Messenger.AssemblyInfoInputs.cache
+/Users/shrifrai/RiderProjects/Messenger/obj/Debug/net5.0/Messenger.AssemblyInfo.cs
+/Users/shrifrai/RiderProjects/Messenger/obj/Debug/net5.0/Messenger.csproj.CoreCompileInputs.cache
+/Users/shrifrai/RiderProjects/Messenger/obj/Debug/net5.0/Messenger.dll
+/Users/shrifrai/RiderProjects/Messenger/obj/Debug/net5.0/ref/Messenger.dll
+/Users/shrifrai/RiderProjects/Messenger/obj/Debug/net5.0/Messenger.pdb
+/Users/shrifrai/RiderProjects/Messenger/obj/Debug/net5.0/Messenger.genruntimeconfig.cache
+/Users/shrifrai/RiderProjects/Messenger/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/shrifrai/RiderProjects/Messenger/obj/Debug/net5.0/Messenger.csproj.CopyComplete
